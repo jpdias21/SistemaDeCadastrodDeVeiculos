@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API = 'https://backend-veiculos.onrender.com'
+const API = 'http://52.67.118.143:3000'
 
 interface VeiculoData {
     marca_carro: string;
