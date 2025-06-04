@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API = 'http://52.67.118.143:3000'
+const API = 'https://api.gerenciamentodeveiculos.online'
 
 interface VeiculoData {
     marca_carro: string;
